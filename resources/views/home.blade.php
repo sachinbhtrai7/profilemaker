@@ -28,6 +28,8 @@
 
 
 <button class="w-full bg-blue-700 text-white text-2xl mt-4">View Profile</button>
+<button class="w-full bg-blue-700 text-white text-2xl mt-4">View Profile</button>
+
         
     </form>
    
